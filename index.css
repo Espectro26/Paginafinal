@@ -1,0 +1,25 @@
+﻿#inicio{text-align:center;}
+
+body{background-color: black; color:white;}
+
+h1{text-align:center;}
+
+#parrafo1{text-align:justify;margin-right:100px;margin-left:100px}
+
+#imagen1{; height:320px;display: block;margin-right: auto;margin-left:auto;border:5px solid red}
+
+#imagen2{width:250px;display: block;margin-left:100px;border:5px solid white;}
+
+#parrafo2{margin-left:170px}
+
+#imagen3{width:250px;display: block;margin-left:-70px;border:5px solid white;}
+
+#parrafo3{margin-left:170px}
+
+#imagen4{width:250px;margin-left:-70px;border:5px solid white}
+
+#parrafo4{margin-left:170px}
+
+#imagen5{width:250px;margin-left:-70px;border:5px solid white;}
+
+#parrafo5{margin-left:150px}

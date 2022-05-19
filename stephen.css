@@ -1,0 +1,13 @@
+﻿#inicio{text-align:center;}
+
+body{background-color: black; color:white;}
+
+h1{text-align:center;}
+
+#parrafo1 {text-align:justify;margin-right:100px;margin-left:100px}
+
+#imagen1{; height:320px;display: block;margin-right: auto;margin-left:auto;border:5px solid red}
+
+h2{text-align:center;}
+
+#parrafo2 {text-align:justify;margin-right:100px;margin-left:100px}
